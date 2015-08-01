@@ -1,0 +1,14 @@
+package protocol;
+
+message Command {
+    optional uint64 sender = 1;
+    optional uint64 receiver = 2;
+    optional Message message = 3;
+}
+
+message Message {
+	optional string data = 1;
+	optional string name = 2;
+	optional string Password = 3;
+	optional uint32 random =4;
+}

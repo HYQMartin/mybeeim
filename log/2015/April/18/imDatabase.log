@@ -1,0 +1,38 @@
+
+2015/04/18 15:50:20 [Database beeim  is connected.]
+
+2015/04/18 15:50:21 [数据库连接失败  dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 15:50:21 [Open imdatabase error : dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 15:50:28 [Database beeim  is connected.]
+
+2015/04/18 15:50:30 [数据库连接失败  dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 15:50:30 [Open imdatabase error : dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:00:47 [Database beeim  is connected.]
+
+2015/04/18 16:00:48 [数据库连接失败  dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:00:48 [Open imdatabase error : dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:01:48 [Database beeim  is connected.]
+
+2015/04/18 16:01:49 [数据库连接失败  dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:01:49 [Open imdatabase error : dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:04:11 [Database beeim  is connected.]
+
+2015/04/18 16:04:12 [数据库连接失败  dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:04:12 [Open imdatabase error : dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:04:16 [Database beeim  is connected.]
+
+2015/04/18 16:04:17 [数据库连接失败  dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:04:17 [Open imdatabase error : dial tcp 182.254.140.237:3306: ConnectEx tcp: No connection could be made because the target machine actively refused it.]
+
+2015/04/18 16:04:46 [Database beeim  is connected.]

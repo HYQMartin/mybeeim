@@ -1,0 +1,74 @@
+
+2014/11/01 17:19:34 [BeeIM server  is running on. The Server is Listening the port :1212 and waiting client for connecting.]
+
+2014/11/01 17:28:34 [Read head error :  WSARecv tcp 192.168.1.112:1212: use of closed network connection]
+
+2014/11/01 17:28:34 [Read a packet error:WSARecv tcp 192.168.1.112:1212: use of closed network connection]
+
+2014/11/01 17:29:30 [Read head error :  EOF]
+
+2014/11/01 17:29:30 [Read a packet error:EOF]
+
+2014/11/01 17:29:40 [Write a packet error:WSASend tcp 192.168.1.112:1212: An established connection was aborted by the software in your host machine.]
+
+2014/11/01 17:29:41 [user session doesn't exist. 10001]
+
+2014/11/01 17:43:55 [Read head error :  EOF]
+
+2014/11/01 17:43:55 [Read a packet error:EOF]
+
+2014/11/01 17:45:14 [Read head error :  EOF]
+
+2014/11/01 17:45:14 [Read a packet error:EOF]
+
+2014/11/01 17:45:22 [Read head error :  EOF]
+
+2014/11/01 17:45:22 [Read a packet error:EOF]
+
+2014/11/01 17:49:52 [BeeIM server  is running on. The Server is Listening the port :1212 and waiting client for connecting.]
+
+2014/11/01 17:50:08 [Read head error :  EOF]
+
+2014/11/01 17:50:08 [Read a packet error:EOF]
+
+2014/11/01 17:51:00 [BeeIM server  is running on. The Server is Listening the port :1212 and waiting client for connecting.]
+
+2014/11/01 17:52:54 [BeeIM server  is running on. The Server is Listening the port :1212 and waiting client for connecting.]
+
+2014/11/01 17:53:06 [Read head error :  EOF]
+
+2014/11/01 17:53:06 [Read a packet error:EOF]
+
+2014/11/01 17:53:18 [Read head error :  EOF]
+
+2014/11/01 17:53:18 [Read a packet error:EOF]
+
+2014/11/01 17:53:31 [Read head error :  EOF]
+
+2014/11/01 17:53:31 [Read a packet error:EOF]
+
+2014/11/01 17:53:49 [Read head error :  EOF]
+
+2014/11/01 17:53:49 [Read a packet error:EOF]
+
+2014/11/01 17:53:55 [Read head error :  EOF]
+
+2014/11/01 17:53:55 [Read a packet error:EOF]
+
+2014/11/01 17:56:09 [BeeIM server  is running on. The Server is Listening the port :1212 and waiting client for connecting.]
+
+2014/11/01 18:13:35 [BeeIM server  is running on. The Server is Listening the port :1212 and waiting client for connecting.]
+
+2014/11/01 18:14:02 [Read head error :  EOF]
+
+2014/11/01 18:14:02 [Read a packet error:EOF]
+
+2014/11/01 18:22:06 [BeeIM server  is running on. The Server is Listening the port :1212 and waiting client for connecting.]
+
+2014/11/01 18:22:18 [Read head error :  EOF]
+
+2014/11/01 18:22:18 [Read a packet error:EOF]
+
+2014/11/01 18:22:25 [Read head error :  EOF]
+
+2014/11/01 18:22:25 [Read a packet error:EOF]

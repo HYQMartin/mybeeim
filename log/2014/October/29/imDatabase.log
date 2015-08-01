@@ -1,0 +1,8 @@
+
+2014/10/29 09:36:31 [Database beeim  is connected.]
+
+2014/10/29 09:39:13 [Database beeim  is connected.]
+
+2014/10/29 09:39:42 [delete from outlinemessage where receiver_id=? [9990]]
+
+2014/10/29 09:39:59 [delete from outlinemessage where receiver_id=? [9991]]

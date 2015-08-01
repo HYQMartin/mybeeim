@@ -1,0 +1,11 @@
+package business;
+
+message Command {
+    required uint32 sender = 1;
+    repeated uint64 uid = 2;
+    optional uint64 groupid=3;
+    repeated string message = 4;
+    repeated string timestamp=5;
+    optional uint32  result=6;
+    optional string resultDescription=7;
+}
